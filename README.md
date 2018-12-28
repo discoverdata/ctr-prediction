@@ -1,7 +1,11 @@
 Click-Through Rate Prediction
 ================
+
 Varun Khanna
+
 6 November 2018
+
+----------------------
 
 I found a dataset of [Click-Through Rate](https://www.kaggle.com/c/avazu-ctr-prediction) (CTR) on Kaggle. This dataset is around 6GB and have 11 days worth of Avazu data (mobile ads) with around 44 million records. The aim of the project is to predict whether a mobile ad will be clicked or not.
 
